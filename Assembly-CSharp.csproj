@@ -22,7 +22,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\</OutputPath>
-    <DefineConstants>UNITY_2020_3_40;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;PLATFORM_STANDALONE;PLATFORM_STANDALONE_WIN;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_OUT_OF_PROCESS_CRASH_HANDLER;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;GFXDEVICE_WAITFOREVENT_MESSAGEPUMP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;MIRROR;MIRROR_57_0_OR_NEWER;MIRROR_58_0_OR_NEWER;MIRROR_65_0_OR_NEWER;MIRROR_66_0_OR_NEWER;MIRROR_2022_9_OR_NEWER;MIRROR_2022_10_OR_NEWER;MIRROR_70_0_OR_NEWER;MIRROR_71_0_OR_NEWER;MIRROR_73_OR_NEWER;MIRROR_78_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2020_3_40;UNITY_2020_3;UNITY_2020;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_INCLUDE_TESTS;USE_SEARCH_ENGINE_API;SCENE_TEMPLATE_MODULE;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_MONO_BDWGC;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;PLATFORM_ANDROID;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;MIRROR;MIRROR_57_0_OR_NEWER;MIRROR_58_0_OR_NEWER;MIRROR_65_0_OR_NEWER;MIRROR_66_0_OR_NEWER;MIRROR_2022_9_OR_NEWER;MIRROR_2022_10_OR_NEWER;MIRROR_70_0_OR_NEWER;MIRROR_71_0_OR_NEWER;MIRROR_73_OR_NEWER;MIRROR_78_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169</NoWarn>
@@ -49,115 +49,303 @@
     <UnityProjectGenerator>Package</UnityProjectGenerator>
     <UnityProjectGeneratorVersion>2.0.16</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
-    <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
+    <UnityBuildTarget>Android:13</UnityBuildTarget>
     <UnityVersion>2020.3.40f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCBuildSupport.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\SerializedDictionary.cs" />
     <Compile Include="Assets\Scripts\MyNetworkManager.cs" />
-    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\_UI\UnitItemUICtrl.cs" />
-    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Windows\LoadingWindow\LoadingWindowCtrl.cs" />
-    <Compile Include="Assets\ParrelSync\Examples\CustomArgumentExample.cs" />
-    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\StageItem\StageItemCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\DemoPopup.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Utils\TMPLinkHandler.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Config\ExtraFeatureConfig.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\Yielders.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\GameData.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\PanelEnums.cs" />
     <Compile Include="Assets\Scripts\MirrorNote.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\UIPanel.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupDailyReward.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Extensions\MoneyTween.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\CameraController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Base\JoystickCtrl.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\AutoRotate.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\EventGlobalManager.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\_Libs\CameraFacingCtrl.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Base\ProgressPanelCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\DemoSidePopup.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\MainScreen.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Extensions\MoneyClaimFx.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\GameHelper.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\_Libs\Common.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Daily Reward\DailyRewardItem.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+    <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Chest Room\ChestItem.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\VectorHelper.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Lucky Wheel\WheelItem.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCMonoBehaviour.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Online Reward\OnlineRewardButton.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Extensions\ButtonAnim.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\SceneController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\SingletonDontDestroy.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Chest Room\KeyStatus.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Leaderboard\TierReward.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCDebug.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\SimpleJSON.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\GrassItemCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\LoadingManager.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\_Libs\FPSCounter.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\SingletonDestroy.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\HCButton.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\UIController.cs" />
-    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\UnitItemBaseCtrl.cs" />
-    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\_AI\UnitItemAIHelperCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\LogoSceneController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Utils\RenderTextureToPng.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Windows\GameOverlayWindow\GameOverlayWindowCtrl.cs" />
-    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\_Libs\Utils.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupOfflineReward.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\_Bullets\BulletCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Leaderboard\MaterialOffsetControl.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCTools.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\SimplePool.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCAssetProcessorSetting.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Windows\GameOverlayWindow\JoystickComponentCtrl.cs" />
     <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Base\ClosableWindowCtrl.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupNoInternet.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupLeaderboard.cs" />
+    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\_UI\UnitItemUICtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PlayScreen.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\UI\Windows\LoadingWindow\LoadingWindowCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Config\UiConfig.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\GameConst.cs" />
+    <Compile Include="Assets\ParrelSync\Examples\CustomArgumentExample.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Config\ConfigManager.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Daily Reward\DailyRewardButton.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupSetting.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupTest.cs" />
+    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\StageItem\StageItemCtrl.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\Utils.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Leaderboard\RankItem.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Utils\HCNavMeshAgent.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupNotification.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Lucky Wheel\LuckyWheelButton.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HyperCatSdkPanel.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Config\SoundConfig.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\PoolHelper.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Utils\TextSizer.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupRate.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\Singleton.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupOnlineReward.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCGameSetting.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Lucky Wheel\LuckyWheelProgress.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\AutoDestroy.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\GameEnums.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\DemoShopScreen.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\PanelAnim.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\FOVMeshCreator.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Config\TierConfig.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupLuckyWheel.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\DemoBottomPopup.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\Config\GameConfig.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Components\Lucky Wheel\LuckyWheelProgressReward.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\GUIManager.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCPanelCreator.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Extensions\UILoading.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\UnitItemBaseCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\AudioAssistant.cs" />
+    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\Scene\UnitItem\_AI\UnitItemAIHelperCtrl.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupChestRoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+    <Compile Include="Assets\Arena Battle Starter Kit\Scripts\_Libs\Utils.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\HCVibrate.cs" />
+    <Compile Include="Assets\Scripts\HyperCatScripts\UI\Panels\PopupTutorial.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\HyperCatSDK\Scripts\Utilities\StringExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\SG2_Template_URP.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Triplanar Sampling.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\Dissolve.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Outline_Behind_SM2.shader" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_Mobile_GPUI.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_VertexDisplacement.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Outline.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Hybrid 2\TCP2 Hybrid 2 Include.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Stylized Water.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Terrain.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Detail Texture Simple.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_Main.cginc" />
+    <None Include="Assets\HyperCatSDK\Scripts\Templates\Template1.txt" />
     <None Include="Assets\ScriptTemplates\51-Mirror__Network Authenticator-NewNetworkAuthenticator.cs.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_DepthTexture.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Mobile_Specular_OutlineBlending.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Vertex Color Albedo.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_MatCap.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\HSV.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\Old School.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Dissolve.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline Blended (Specular).shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Animated Dissolve.shader" />
     <None Include="Assets\ScriptTemplates\56-Mirror__Network Discovery-NewNetworkDiscovery.cs.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Mobile_OutlineBlending.shader" />
     <None Include="Assets\Arena Battle Starter Kit\Shaders\Default.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline (Specular).shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\PBS\Sketch.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Texture Blending.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_ShadowHSV.txt" />
     <None Include="Assets\Arena Battle Starter Kit\readme.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Desktop_OutlineBlending.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Water.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\SG2_Template_Default.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\Snow Accumulation.shader" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_OutlineOnly Blended.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_NdotL Stylization.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Water.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\Comic Book.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_CurvedWorld.txt" />
     <None Include="Assets\Arena Battle Starter Kit\Shaders\Outline.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_Core.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Mobile_Specular.shader" />
     <None Include="Assets\Mirror\Version.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Wind.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_SurfacePBS.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\!ToonyColorsPro Readme.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Desktop_Specular_OutlineBlending.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Dithering.txt" />
     <None Include="Assets\Mirror\Readme.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Desktop_Outline.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_OutlineOnly SM2.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Ramp Shading LWRP.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Include.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_Desktop.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Hologram.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_OutlineOnly Blended SM2.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Realistic.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Outline_Include.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_AlbedoHSV.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\ScriptTemplates\57-Mirror__Network Transform-NewNetworkTransform.cs.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Outline_Behind.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Normal Mapping.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\PBS\Blended Outline.shader" />
     <None Include="Assets\ParrelSync\VERSION.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_VertExmotion.txt" />
     <None Include="Assets\ScriptTemplates\52-Mirror__Network Behaviour-NewNetworkBehaviour.cs.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Outline.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\Subsurface Scattering.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Vertical Fog.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Water WindWaker2.shader" />
     <None Include="Assets\Mirror\Notice.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Water_CurvedWorld.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\PBS\Hand Painted.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Outline_Stencil.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Ramp Shading.txt" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS Outline Blended.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Sketch.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Include\TCP2_Outline_SM2.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Portal.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Aura2.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Reflection.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Lava.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Screen Space UV.txt" />
     <None Include="Assets\Mirror\Plugins\Mono.Cecil\License.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Hash Functions.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Terrain.txt" />
     <None Include="Assets\ScriptTemplates\55-Mirror__Network Room Player-NewNetworkRoomPlayer.cs.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Default_CurvedWorld.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Triplanar.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_PBS.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Default\Sketch.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_ShadowMeta.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_Mobile.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Lava Cartoon.shader" />
     <None Include="Assets\ScriptTemplates\53-Mirror__Custom Interest Management-CustomInterestManagement.cs.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\PBS\Outline Behind.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_HSV.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_Standard PBS (Specular).shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Water.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Mobile_Outline.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\ScriptTemplates\50-Mirror__Network Manager-NewNetworkManager.cs.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Desktop_Specular_Outline.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Rim Lighting.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\ScriptTemplates\54-Mirror__Network Room Manager-NewNetworkRoomManager.cs.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Mobile_Specular_Outline.shader" />
+    <None Include="Assets\HyperCatSDK\Scripts\Templates\NamesList.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Subsurface Scattering.txt" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_NoTile Sampling.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Standard PBS\TCP2_PBS_BRDF.cginc" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\Variants Base\TCP2_Desktop_Specular.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders\TCP2_OutlineOnly.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Water WindWaker.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_CustomAmbient.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\3DObjects.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Wind Animation.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates\TCP2_ShaderTemplate_Default.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\Water\Poison.shader" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Specular.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shaders Generated\Examples\SG2\Detail Texture.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+    <None Include="Assets\HyperCatSDK\Shader\Toony Colors Pro\Shader Templates 2\Modules\Module_Reflection.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -186,12 +374,6 @@
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
       <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.ClusterInputModule">
-      <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.ClusterRendererModule">
-      <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
@@ -346,9 +528,6 @@
     <Reference Include="UnityEngine.VideoModule">
       <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.VirtualTexturingModule">
-      <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.WindModule">
       <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>
     </Reference>
@@ -382,20 +561,50 @@
     <Reference Include="UnityEditor.UnityConnectModule">
       <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
-    <Reference Include="Mono.CecilX.Rocks">
-      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
-    </Reference>
     <Reference Include="Mono.CecilX.Pdb">
       <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
       <HintPath>Library\PackageCache\com.unity.standardevents@1.0.13\UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
+    <Reference Include="Sirenix.OdinInspector.Attributes">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Attributes.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Serialization.Config">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.Config.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets\Plugins\Demigiant\DOTween\DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets\Plugins\Demigiant\DOTweenPro\DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Utilities.Editor">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.CecilX.Rocks">
+      <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Rocks.dll</HintPath>
+    </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets\Plugins\Demigiant\DemiLib\Core\DemiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.OdinInspector.Editor">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.OdinInspector.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Mono.CecilX">
       <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\Plugins\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Utilities">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Utilities.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>Library\PackageCache\com.unity.analytics@2.0.16\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Sirenix.Serialization">
+      <HintPath>Assets\Plugins\Sirenix\Assemblies\Sirenix.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Mono.CecilX.Mdb">
       <HintPath>Assets\Mirror\Plugins\Mono.Cecil\Mono.CecilX.Mdb.dll</HintPath>
@@ -751,12 +960,6 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>D:\App\UnityEditor\2020.3.40f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="Cinemachine">
-      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -766,17 +969,11 @@
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
@@ -790,8 +987,28 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{F3749347-F4A6-08B4-B22B-C5BFC36574F1}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-examples-editor.csproj">
+      <Project>{972732C9-E91C-8221-1A36-72BB2CBE28E7}</Project>
+      <Name>spine-unity-examples-editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Mirror.csproj">
       <Project>{C89000C6-EF57-4455-884A-D1A38D0CAD78}</Project>
       <Name>Mirror</Name>
@@ -800,13 +1017,45 @@
       <Project>{CC82DC15-E4AE-1F68-A8D6-B11FB178E51D}</Project>
       <Name>kcp2k</Name>
     </ProjectReference>
-    <ProjectReference Include="Mirror.Editor.csproj">
-      <Project>{AEAD2270-54FF-49B0-188C-48189EFDE9AD}</Project>
-      <Name>Mirror.Editor</Name>
+    <ProjectReference Include="spine-unity.csproj">
+      <Project>{B0AC929C-F778-FFFB-C60D-C388008F9BBE}</Project>
+      <Name>spine-unity</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj">
+      <Project>{DB59B5CA-0494-A8D8-5B4F-34D52A987E13}</Project>
+      <Name>ToonyColorsPro.Demo.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="KinoBloom.Runtime.csproj">
+      <Project>{F8EED347-93DE-1AAA-EE34-34A591A00610}</Project>
+      <Name>KinoBloom.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Examples.csproj">
       <Project>{42CBB974-5E8B-C83E-5630-361C5389F502}</Project>
       <Name>Mirror.Examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-examples.csproj">
+      <Project>{44B4B221-AFD4-6237-FAA7-11440EEC6812}</Project>
+      <Name>spine-unity-examples</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.Transports.csproj">
+      <Project>{580B42C9-F3AC-7972-07B4-50566BA55EB3}</Project>
+      <Name>Mirror.Transports</Name>
+    </ProjectReference>
+    <ProjectReference Include="ParrelSync.csproj">
+      <Project>{1B6F9534-CA7E-7878-3C3A-54406BEE78EE}</Project>
+      <Name>ParrelSync</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniRx.csproj">
+      <Project>{E6D960A6-BE19-AE60-BF5D-4C8578F9BBAF}</Project>
+      <Name>UniRx</Name>
+    </ProjectReference>
+    <ProjectReference Include="ToonyColorsPro.Runtime.csproj">
+      <Project>{0D990F55-A3A0-5FC2-B60A-D30E2315F62D}</Project>
+      <Name>ToonyColorsPro.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Mirror.Editor.csproj">
+      <Project>{AEAD2270-54FF-49B0-188C-48189EFDE9AD}</Project>
+      <Name>Mirror.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.CompilerSymbols.csproj">
       <Project>{43125C48-99A7-FF85-7293-6EEA10137215}</Project>
@@ -816,25 +1065,33 @@
       <Project>{F5D1B7C4-0022-D2EF-3CE5-3A2EF5DA8FF9}</Project>
       <Name>Mirror.Authenticators</Name>
     </ProjectReference>
+    <ProjectReference Include="spine-unity-editor.csproj">
+      <Project>{A20F9B99-5E05-E0BF-7D4D-9AAAD7C507D2}</Project>
+      <Name>spine-unity-editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Telepathy.csproj">
       <Project>{19E995AA-4289-E306-0F10-1A49FFCABF2A}</Project>
       <Name>Telepathy</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-csharp.csproj">
+      <Project>{406035B7-709C-2C5A-E8C8-798ECE5EFEEE}</Project>
+      <Name>spine-csharp</Name>
     </ProjectReference>
     <ProjectReference Include="SimpleWebTransport.csproj">
       <Project>{EB8EF97D-4306-CF5A-A529-AB72EFFB55F0}</Project>
       <Name>SimpleWebTransport</Name>
     </ProjectReference>
-    <ProjectReference Include="Mirror.Transports.csproj">
-      <Project>{580B42C9-F3AC-7972-07B4-50566BA55EB3}</Project>
-      <Name>Mirror.Transports</Name>
+    <ProjectReference Include="ToonyColorsPro.Editor.csproj">
+      <Project>{057B0E92-B97C-78EF-D611-72CA765784FE}</Project>
+      <Name>ToonyColorsPro.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Mirror.Components.csproj">
       <Project>{70397F59-D1B6-A6BC-C7B8-CB4A5E6F9054}</Project>
       <Name>Mirror.Components</Name>
     </ProjectReference>
-    <ProjectReference Include="ParrelSync.csproj">
-      <Project>{1B6F9534-CA7E-7878-3C3A-54406BEE78EE}</Project>
-      <Name>ParrelSync</Name>
+    <ProjectReference Include="ToonyColorsPro2.Demo.csproj">
+      <Project>{A825FE6B-2BE5-4B5A-6E99-8EB24A9EF5A7}</Project>
+      <Name>ToonyColorsPro2.Demo</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

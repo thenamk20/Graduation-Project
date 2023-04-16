@@ -27,10 +27,10 @@ public class UIController : MonoBehaviour {
 
     public void ShowWindow(ClosableWindowCtrl windowPrefab)
     {
-        GameObject inst = Utils.CreateInstance(windowPrefab.gameObject, this.WindowOverlay, true);
-        ClosableWindowCtrl win = inst.GetComponent<ClosableWindowCtrl>();
+        //GameObject inst = Utils.CreateInstance(windowPrefab.gameObject, this.WindowOverlay, true);
+        //ClosableWindowCtrl win = inst.GetComponent<ClosableWindowCtrl>();
 
-        win.Init();
+        //win.Init();
     }
 
     public void CloseWindow(ClosableWindowCtrl window)
